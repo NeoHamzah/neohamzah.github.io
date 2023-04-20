@@ -50,7 +50,7 @@ const Contact = () => {
           {/* form */}
           <motion.form 
           ref={form} onSubmit={sendEmail}
-          variants={fadeIn('left', 0.3)}
+          variants={fadeIn('down', 0.3)}
           initial='hidden'
           whileInView={'show'}
           viewport={{once: true}}          
