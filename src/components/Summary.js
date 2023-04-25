@@ -26,7 +26,7 @@ const About = () => {
             <ol className="relative border-l ml-4">
               <li className="mb-10 ml-6">
                 <span className="flex absolute -left-3 justify-center items-center w-6 h-6 bg-accent rounded-full"></span>
-                <h3 className="flex items-center mb-2 ml-2font-semibold text-white">Mohammad Amirul Hamzah</h3>
+                <h3 className="flex items-center mb-2 ml-2 font-semibold text-white">Mohammad Amirul Hamzah</h3>
                 <time className="block mb-2 font-semibold leading-none text-accent ml-2">Student, Graphic Designer, Technology Staff of HMIF</time>
                 <p className="mb-4 font-normal text-white ml-2 text-justify">
                   I'am an Undergraduate Informatics Student in University of Jember who is interested in Graphic Design, Video Editing, and Web Development. I can work as a team, and a hardworking person.
@@ -34,7 +34,7 @@ const About = () => {
               </li>
               <li className="mb-10 ml-6">
                 <span className="flex absolute -left-3 justify-center items-center w-6 h-6 bg-accent rounded-full"></span>
-                <h3 className="flex items-center mb-2 font-semibold text-white">Bachelor in Informatics</h3>
+                <h3 className="flex items-center mb-2 ml-2 font-semibold text-white">Bachelor in Informatics</h3>
                 <time className="block mb-2 font-semibold leading-none text-accent ml-2">2022-2026 (Expected)</time>
                 <p className="mb-4 font-normal text-white ml-2 text-justify">Course: Algorithms and Programming; Object-Oriented Programming; Discrete Mathematics; Linear Algebra; Software Development, and etc.</p>
               </li>
@@ -61,7 +61,7 @@ const About = () => {
                 </li>
                 <li className="mb-10 ml-6">
                   <span className="flex absolute -left-3 justify-center items-center w-6 h-6 bg-accent rounded-full"></span>
-                  <h3 className="flex items-center mb-2 font-semibold text-white">Informatics Charity Project 2023 (ICP)</h3>
+                  <h3 className="flex items-center mb-2 ml-2 font-semibold text-white">Informatics Charity Project 2023 (ICP)</h3>
                   <time className="block mb-2 font-semibold leading-none text-accent ml-2">Coordinator of Publication and Documentation Division</time>
                   <p className="mb-4 font-normal text-white ml-2 text-justify">Again, I become the Coordinator of Publication and Documentation Division, so it's my job to coordinate my staff to do the best and serve a good and nice graphic design (like poster, banner, and etc), so it will make people who see the poster want to do a charity.</p>
                 </li>
